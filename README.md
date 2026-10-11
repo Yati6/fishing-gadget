@@ -1,5 +1,5 @@
 # Unnamed Fishing Gadget
-This fishing Gadget is the first of it's kind as far as i know. It tracks your fishing statistics using an accelrometer and a gyroscope while also assisting in fishing with a bite detector and a motor.
+This fishing Gadget is the first of it's kind as far as i know. It tracks your fishing statistics using an accelerometer and a gyroscope while also assisting in fishing with a bite detector and a motor.
 The statics can help u learn about your weakness when casting maybe it's low or inconsistent speed or a small casting angle. You can also study how the fish fight with graphs showing the force trough a fight with the fish.
 The Gadget can track to following:
 * Bite alerts & nibbles: Tells apart real strikes from gentle nibbles, so weeds or water current don’t trigger false alarms.
